@@ -28,7 +28,8 @@ A modern Android **Posts App** built using **Jetpack Compose**, **MVVM architect
   ## 📱 App Preview
 
 <p align="center">
-  <img src="screenshorts/ui.png" width="300" alt=" Notes App"/>
+
+  <img src="screenshorts/ui .png" width="300" alt=" Notes App"/>
 </p>
 
 ## 🏗️ Architecture
