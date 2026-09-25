@@ -28,7 +28,7 @@ A modern Android **Posts App** built using **Jetpack Compose**, **MVVM architect
   ## 📱 App Preview
 
 <p align="center">
-  <img src="screenshorts/ui.png" width="300" alt="Weather App Screenshot"/>
+  <img src="screenShorts/ui.png" width="300" alt="Weather App Screenshot"/>
 </p>
 
 ## 🏗️ Architecture
@@ -111,7 +111,7 @@ Model → Repository → ViewModel → UI
 
 ### Posts Screen
 
-![Posts App Screenshot](screenshots/posts_screen.png)
+
 
 > Add your screenshot inside the `screenshots` folder with the filename `posts_screen.png`.
 
